@@ -19,7 +19,7 @@
     "@monaco-editor/react": "^4.7.0",
     "handlebars": "^4.7.8",
     "jszip": "^3.10.1",
-    "next": "16.0.3",
+    "next": "16.0.7",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "react-split": "^2.0.14"
