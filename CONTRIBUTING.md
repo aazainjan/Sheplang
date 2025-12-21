@@ -1,21 +1,21 @@
 # Contributing to ShepLang
 
-Thank you for your interest in contributing to ShepLang! This document provides guidelines for contributing to the project.
+Thank you for your interest in contributing to ShepLang. This document outlines the guidelines for contributing to the project.
 
-## 🎯 Ways to Contribute
+##  Ways to Contribute
 
-- 🐛 Report bugs
-- 💡 Suggest new features
-- 📝 Improve documentation
-- 🔧 Submit pull requests
-- ⭐ Star the repo (helps visibility!)
+-  Report bugs
+-  Suggest new features
+-  Improve documentation
+-  Submit pull requests
+-  Star the repo (helps visibility!)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Fork the Repository
 
 ```bash
-# Fork on GitHub, then clone your fork
+# Fork the repository on GitHub, then clone your fork locally
 git clone https://github.com/YOUR_USERNAME/Sheplang-BobaScript.git
 cd Sheplang-BobaScript
 ```
@@ -43,7 +43,7 @@ pnpm -w -r test
 pnpm run verify
 ```
 
-## 📋 Development Workflow
+##  Development Workflow
 
 ### 1. Create a Branch
 
@@ -55,10 +55,10 @@ git checkout -b fix/your-bug-fix
 
 ### 2. Make Your Changes
 
-- Follow existing code style
-- Add tests for new features
-- Update documentation as needed
-- Keep commits atomic and well-described
+- Follow existing code style.
+- Add tests for new features.
+- Update documentation as needed.
+- Keep commits atomic and well-described.
 
 ### 3. Test Your Changes
 
@@ -104,7 +104,7 @@ git push origin feature/your-feature-name
 
 Then create a Pull Request on GitHub.
 
-## 🎨 Code Style
+##  Code Style
 
 ### TypeScript
 
@@ -122,12 +122,12 @@ Then create a Pull Request on GitHub.
 ## 📞 Need Help?
 
 - 💬 [GitHub Discussions](https://github.com/Radix-Obsidian/Sheplang-BobaScript/discussions)
-- 🐛 [GitHub Issues](https://github.com/Radix-Obsidian/Sheplang-BobaScript/issues)
+-  [GitHub Issues](https://github.com/Radix-Obsidian/Sheplang-BobaScript/issues)
 
-## 📜 License
+##  License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
 ---
 
-**Thank you for making ShepLang better!** 🐑✨
+**Thank you for making ShepLang better!** 

@@ -13,7 +13,7 @@
   
   <p>
     <strong>The first AI-native programming language with 100% verification coverage.</strong><br>
-    Write your app in plain English, ship production-ready code without fear.
+    Write your application in plain English and ship production-ready code with confidence.
   </p>
   
   <p>
@@ -80,12 +80,12 @@ app DogReminders {
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🧠 AI-Native Design
+###  AI-Native Design
 - **Small, deterministic grammar** optimized for LLM generation
-- **Unambiguous syntax** with no weird edge cases
-- **Verified output** - AI can't generate broken code
+- **Unambiguous syntax** with no unexpected edge cases
+- **Verified output** - AI cannot generate broken code
 
 ### 🔒 100% Verification Coverage
 ShepVerify catches **ALL** common bugs before runtime:
@@ -117,7 +117,7 @@ POST /todos -> db.add("todos", body)
 
 **Verified Contract:** Frontend and backend types always match. Impossible to break.
 
-### 🎯 Project Wizard 🆕
+###  Project Wizard 🆕
 **Intelligent project scaffolding with guided setup:**
 - ✅ **6-step guided questionnaire** for project requirements
 - ✅ **AI-powered scaffolding** with web search capabilities
@@ -126,7 +126,7 @@ POST /todos -> db.add("todos", body)
 - ✅ **Integration setup** (Stripe, SendGrid, AWS S3, Clerk, etc.)
 - ✅ **Documentation generation** (README, setup guides, next steps)
 
-### 🏗️ Enterprise Features
+###  Enterprise Features
 **Production-ready applications with advanced capabilities:**
 - ✅ **Workflow Orchestration** - Multi-step business processes
 - ✅ **Authentication & Authorization** - JWT + Role-based access
@@ -135,7 +135,7 @@ POST /todos -> db.add("todos", body)
 - ✅ **Third-Party Integrations** - Stripe, SendGrid, Twilio
 - ✅ **Background Jobs** - Scheduled tasks and automation
 
-### 🔄 Import Real Projects from GitHub 🆕
+###  Import Real Projects from GitHub 🆕
 **Convert production codebases to ShepLang with one click:**
 
 ```
@@ -154,7 +154,7 @@ ShepLang: Import from GitHub → https://github.com/boxyhq/saas-starter-kit
 | `realtime/` | 1 file | WebSocket hooks |
 | `app.shep` | 1 file | Main app (previewable!) |
 
-**✅ Tested & Verified on Real SaaS Projects:**
+** Tested & Verified on Real SaaS Projects:**
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 162+ files generated
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - Full Next.js 13 app
 - [vercel/commerce](https://github.com/vercel/commerce) - E-commerce template
@@ -169,7 +169,7 @@ ShepLang: Import from GitHub → https://github.com/boxyhq/saas-starter-kit
 | **React + TypeScript** | ✅ 100% | Components, hooks, state |
 | **Vite + React** | ✅ 100% | SPA components and logic |
 
-### 🔄 Also Import from No-Code Tools
+###  Also Import from No-Code Tools
 **ShepLang is the graduation layer for your no-code prototypes:**
 - ✅ **Figma Make** - Export React code, import to ShepLang
 - ✅ **Lovable** - Convert Lovable projects to ShepLang
