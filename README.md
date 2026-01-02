@@ -141,18 +141,17 @@ POST /todos -> db.add("todos", body)
 ```
 ShepLang: Import from GitHub → https://github.com/boxyhq/saas-starter-kit
 ```
-
 **What Gets Generated:**
-| Folder | Contents | Description |
-|--------|----------|-------------|
-| `models/` | 16 files | Data entities from Prisma schema |
-| `views/` | 114 files | UI components with screen kinds |
-| `actions/` | 19 files | Event handlers and interactions |
-| `workflows/` | 2 files | Multi-step automations |
-| `jobs/` | 5 files | Background tasks (cron) |
-| `integrations/` | 4 files | Stripe, SendGrid, Auth0, etc. |
-| `realtime/` | 1 file | WebSocket hooks |
-| `app.shep` | 1 file | Main app (previewable!) |
+| Folder          | Contents   | Description                     |
+|-----------------|-----------|---------------------------------|
+| `models/`       | 16 files  | Data entities from Prisma schema|
+| `views/`        | 114 files | UI components with screen kinds|
+| `actions/`      | 19 files  | Event handlers and interactions|
+| `workflows/`    | 2 files   | Multi-step automations         |
+| `jobs/`         | 5 files   | Background tasks (cron)        |
+| `integrations/` | 4 files   | Stripe, SendGrid, Auth0, etc. |
+| `realtime/`     | 1 file    | WebSocket hooks                |
+| `app.shep`      | 1 file    | Main app (previewable!)        |
 
 ** Tested & Verified on Real SaaS Projects:**
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 162+ files generated
@@ -184,7 +183,7 @@ ShepLang: Import from GitHub → https://github.com/boxyhq/saas-starter-kit
 
 ## 🚀 Quick Start
 
-### ⚡Installation
+### ⚡ Installation
 
 ```bash
 # Install CLI globally
@@ -219,7 +218,7 @@ sheplang dev
 
 ---
 
-## ⚡Installation
+## ⚡ Installation
 
 ### Prerequisites
 - **Node.js 20+**
