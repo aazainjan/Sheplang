@@ -219,7 +219,7 @@ sheplang dev
 
 ---
 
-## ⚡ Installation
+## ⚡Installation
 
 ### Prerequisites
 - **Node.js 20+**
@@ -242,8 +242,8 @@ pnpm run build
 pnpm run test
 
 ## Run full verification
-
 pnpm run verify
+
 ```
 
 ### Package Development
