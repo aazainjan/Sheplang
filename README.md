@@ -184,7 +184,7 @@ ShepLang: Import from GitHub → https://github.com/boxyhq/saas-starter-kit
 
 ## 🚀 Quick Start
 
-### Installation
+### ⚡Installation
 
 ```bash
 # Install CLI globally
@@ -219,7 +219,7 @@ sheplang dev
 
 ---
 
-## � Installation
+## ⚡ Installation
 
 ### Prerequisites
 - **Node.js 20+**
@@ -241,7 +241,8 @@ pnpm run build
 # Run tests
 pnpm run test
 
-# Run full verification
+## Run full verification
+
 pnpm run verify
 ```
 
@@ -295,7 +296,7 @@ sheplang/
 | **VSCode Extension** | ✅ Alpha Ready | 5 examples working | - |
 | **Documentation** | ✅ Complete | - | - |
 
-**Total: 175/175 tests passing** ✅
+**Total: 175/175 tests passing.** ✅
 
 ### What's Included
 
